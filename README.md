@@ -7,4 +7,5 @@ To convert Celsius to Fahrenheit we use:
 F = (C * 9/5) + 32 <br> 
 and for F to C is vise versa... C = (F - 32) * 5/9
 <br>
-Here C refers to Celsius and F refers to Fahrenheit!
+Here C refers to Celsius and F refers to Fahrenheit! 
+<br> by this we convert.
